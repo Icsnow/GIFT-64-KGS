@@ -1,4 +1,4 @@
-# GIFT-64-optimal-key-guessing
+# GIFT-64 Key Guessing Strategy
 
 From SAC 2023 accepted paper [Improving the Rectangle Attack on GIFT-64](https://eprint.iacr.org/2023/1419).
 
